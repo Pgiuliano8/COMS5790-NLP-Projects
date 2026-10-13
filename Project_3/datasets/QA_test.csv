@@ -1,0 +1,111 @@
+﻿ID,Questions
+1,A sample is unbiased if it is ___________ of the population. 
+2,What is the brain of the computer?
+3,What term does Python use to represent integers?
+4,When did the Congress passed the Wild Bird Conservation Act that restricts importation of endangered birds?
+5,What type of light would a laser with an emerald crystal for a medium produce?
+6,What is the average life span of a toucan in captivity?
+7,What did lasers evolve from?
+8,Why does a computer use the binary system instead of the metric system?
+9,What is the normal state of an electron?
+10,"In programming, what type of number is 2.33 or 3.11 classified as?"
+11,How thin can a fiber optic be?
+12,You are building a liquid laser with an organic dye and a flash lamp. Which of these components is the medium?
+13,"When visiting a tropical locale, you're more likely to spot a toucan in a treetop rather than flying through the air. Why?"
+14,Where do toucans sleep?
+15,Why are lasers cheaper than conventional missiles?
+16,What type of study is done on data that have already been collected?
+17,What is the advantage of liquid dye lasers?
+18,Give one example of data collection that involves direct observation. 
+19,Toucans are rare and expensive nowadays. A toucan can cost about ____________.
+20,Was toucan sold in pet shops in the 70's in the US?
+21,What kind of bias can arise if the researcher ask misleading questions?
+22,What type of study focuses on data from the past?
+23,"In this form of sampling, the population is divided into sections and then participants are randomly selected from each section to form the sample."
+24,"What was the U.S. ""Star Wars"" program officially called?"
+25,Name one example of an input/output device.
+26,What industry is the biggest user of lasers?
+27,Who did the test of LWS during 2010-2015?
+28,What kind of variables make it difficult to interpret data?
+29,You recruit clinics from around the country to test whether a new medication is more effective than an existing one. You let each clinic choose whether to administer the new drug or the existing drug.  What's wrong with this study?
+30,"Aside from crashes and freezes, what is the worst error a program can produce?"
+31,"Instead of light bulbs, which are far too large to fit inside a computer chip, the computer uses ______."
+32,What is a quantum?
+33,What is the bill color of the largest toucan species?
+34,Name all potential disadvantages of experiments introduced in the lecture.
+35,"During the late 70's and 80's, the popularity of toucans was replaced by another bird. What is it?"
+36,A researcher conducts a study that investigates how far people can jump in one leap. The sample consists only of people over six feet tall. What's wrong with this sample?
+37,"What is ""white"" light made of?"
+38,"When electrons give off a photon of light by itself, this is called ___________."
+39,How many kinds of biases are introduced?
+40,What might the toucan's bright coloring be mistaken for from afar?
+41,Why do researchers use a sample rather than a population?
+42,What is typically used to treat hemochromatosis in humans?
+43,"During WWII, Alan Turing built a machine to do what?"
+44,A light is ___________ when the peaks and troughs of the light waves line up precisely.
+45,What was the Atanasoff and Berry Computer (ABC) designed to do?
+46,Name one property of a good sample. 
+47,A good way to prevent toucans from contracting hemochromatosis is to feed them ______.
+48,Which continent are most toucans from?
+49,An ________ is a set of instructions - steps to be executed in a specific order.
+50,Why would a wild toucan be less likely to develop hemochromatosis than a captive toucan?
+51,What should be done to reduce the chance of unexpected group differences in a study?
+52,What are CO2 lasers used for?
+53,"When hemochromatosis happens to toucans, what is the reason of death usually?"
+54,There are two types of numbers in programming. One is an integer and the other is what?
+55,"Python is named after the British comedy series Monty Python Flying Circus, not the snake. Is this true?"
+56,What kind of sampling ensures representative data?
+57,How many kinds of memory are there in a stored program computer?
+58,What type of laser would be useful for industrial engraving?
+59,What do we call an error that leads to a violation against the intention of a coder?
+60,How would you represent the binary number of 10 (which means 2) with light bulbs? Please note the ORDER of the on-off pattern.
+61,Can apperance be used to determine the sex of a toucan?
+62,What type of particles do masers emit?
+63,"If a computer seems to become unresponsive, what is the typical underlying cause?"
+64,What kind of statistics are used to draw conclusions about a population?
+65,What kind of studies involve measuring data at one point in time?
+66,What treatment is used when a toucan is diagnosed with hemochromatosis?
+67,A researcher recruiting a sample asks friends to participate in a study. What sampling method did they use?
+68,What is the integrated development environment called in Python?
+69,How does a program end up in a crash?
+70,"The five best known types of lasers are solid, gas, liquid, ___________, and fiber."
+71,The ___________ is the entire collection of objects or individuals about which information is desired. 
+72,What does LASIK stand for?
+73,What object can serve as a red laser's medium?
+74,A stored program computer treats algorithms the same as what?
+75,Imagine you travel to Sri Lanka to get a glimpse of toucans in the wild. Are you more likely to see a solitary toucan or a flock of them?
+76,What is the size of a toucan's bill related to?
+77,What is the process of replacing solid atoms with impure ones called?
+78,Convenience sampling means that people are sampled because they are ___________
+79,"What term does Python use to represent characters, char or str?"
+80,"Aside from food, what should owners provide to their pet toucans?"
+81,What kind of bias can be produced by participants' unwillingness to participate?
+82,What is the Strategic Defense Initiative (SDI) commonly known as?
+83,What is the primary food in a toucan's diet?
+84,What is the name for light of a very precise wavelength and color?
+85,"When a male and a female toucans toss berries at each other, who is more likely to keep/eat the berry?"
+86,In ___________ studies you report what's happening without influencing the activity by any means.
+87,"College admissions offices often keep records of admission standards over time.  You want to know if your college's admission standards have changed in the last 20 years, what kind of study is this?"
+88,A ___________ emits light to begin the process of creating a laser beam.
+89,"You want to make a new product that requires you to laser cut both fabric and aluminum, which type of laser should you use?"
+90,What sampling method ensures that every member of the sample has an equal chance of being picked?
+91,What kind of computers are made to solve a specific problem?
+92,What is Gordon Gould's main achievement?
+93,"While running the code a = 3 + 1, which computer component performs the addition?"
+94,What can you feed to a captive toucan if you want to go cheap?
+95,What can an experimental study do that an observational study cannot?
+96,"Toucans are covered entirely by feathers except the bill, feet, and ___________."
+97,What does alpha mean in statistical testing?
+98,"If you want to know whether female crickets choose their mates based on health, what should you do to the male crickets?"
+99,Who is Python's IDLE named after?
+100,A ___________ is a subset of the population. 
+101,What are the insides of a toucan's bill shaped like?
+102,"If the flashlight is like ripples in a bathtub, the laser is like ___________."
+103,In what kind of studies do researchers manipulate variables?
+104,Over- or under-representation of some groups in the population produces a ___________ bias.
+105,"In programming, there are two types of knowledge. If you write the code x+3=4, what type of knowledge is it?"
+106,"Toucans' feathers help them blend in with their environments, which serves what survival function?"
+107,What kind of knowledge shows how to solve a problem?
+108,"Descriptive statistics summarize the data, with values like maximums, minimums, and ___________."
+109,What does the R in laser stand for?
+110,What is syntax?
