@@ -1,1 +1,16 @@
+# COMS 5790 — Project 4: Scientific Title Generation from Abstracts
 
+**Author:** Giuliano Pitari (`gpit8@iastate.edu`)  
+**Affiliation:** Iowa State University / Politecnico di Torino  
+
+## Overview
+This folder contains the code and report for **Project 4**, which fine-tunes `google/flan-t5-small` to generate scientific paper titles from abstracts on two corpora: **Animal Science** (`animal.tsv`) and **LitCovid** (`litcovid_sample_1000.json`).
+
+## Pipeline Summary
+1. **Preprocessing & Splitting:** Extracts only `Title` and `Abstract` fields (excluding IDs and non-title/abstract BioC sections), drops incomplete records, and independently shuffles and splits each corpus 40% / 20% / 40% (`train` / `validation` / `test`, seed `42`).
+2. **Fine-Tuning:** Trains one `google/flan-t5-small` model per dataset for 3 epochs (`AdamW`, `lr=2e-5`, batch size `4`, gradient clipping `1.0`, best validation-loss checkpoint) using the prompt `"Generate a concise scientific title: "`.
+3. **Evaluation & Ablation:** Generates test titles with beam search (`num_beams=4`, `max_new_tokens=64`) and evaluates **BLEU-4**, **ROUGE-2 F1**, **ROUGE-L F1**, and **Semantic Cosine Similarity** (`sentence-transformers/all-MiniLM-L6-v2`). Includes a zero-shot vs. fine-tuned comparison and qualitative examples.
+
+## Requirements
+```bash
+pip install torch transformers sentence-transformers
